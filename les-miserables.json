@@ -33,7 +33,7 @@
         "name": "administrative_area",
         "symbolSize": 35,
         "value": 4,
-        "category": 2
+        "category": 1
       },
       {
         "id": "5",
@@ -82,7 +82,7 @@
         "name": "locality",
         "symbolSize": 35,
         "value": 11,
-        "category": 3
+        "category": 1
       },
       {
         "id": "12",
@@ -326,7 +326,7 @@
         "target": "16"
       },
                   {
-        "source": "0",
+        "source": "12",
         "target": "17"
       },
                   {
