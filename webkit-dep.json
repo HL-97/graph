@@ -29,7 +29,7 @@
     "nodes": [
         {
             "name": "AnalyserNode",
-            "value": 1,
+            "value": 100,
             "category": 4
         },
         {
