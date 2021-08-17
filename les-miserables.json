@@ -2,6 +2,15 @@
     "nodes": [
       {
         "id": "0",
+        "name": "Geo-feature",
+        "symbolSize": 66.66666666666667,
+        "x": -87.93029,
+        "y": -6.8120565,
+        "value": 100,
+        "category": 0
+      },
+      {
+        "id": "11",
         "name": "Myriel",
         "symbolSize": 19.12381,
         "x": -266.82776,
@@ -99,15 +108,7 @@
         "value": 4,
         "category": 1
       },
-      {
-        "id": "11",
-        "name": "Valjean",
-        "symbolSize": 66.66666666666667,
-        "x": -87.93029,
-        "y": -6.8120565,
-        "value": 100,
-        "category": 1
-      },
+
       {
         "id": "12",
         "name": "Marguerite",
