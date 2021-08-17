@@ -30,6 +30,7 @@
         {
             "name": "AnalyserNode",
             "value": 100,
+            "symbolSize": 65,
             "category": 4
         },
         {
