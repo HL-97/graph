@@ -9,15 +9,6 @@
         "value": 100,
         "category": 0
       },
-       {
-        "id": "100",
-        "name": "Geo-feature",
-        "symbolSize": 66.66666666666667,
-        "x": 100,
-        "y": 0,
-        "value": 100,
-        "category": 1
-      },
       {
         "id": "1",
         "name": "Marius",
