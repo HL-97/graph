@@ -4,6 +4,8 @@
         "id": "0",
         "name": "Place",
         "symbolSize": 65,
+        "x": -87.93029,
+        "y": -6.8120565,
         "value": 100,
         "category": 0
       },
@@ -11,6 +13,8 @@
         "id": "1",
         "name": "political",
         "symbolSize": 35,
+        "x": 387.89572,
+        "y": 110.462326,
         "value": 61.600006,
         "category": 1
       },
@@ -18,6 +22,8 @@
         "id": "2",
         "name": "route",
         "symbolSize": 35,
+        "x": -212.76357,
+        "y": 245.29176,
         "value": 9.485714,
         "category": 1
       },
@@ -25,6 +31,8 @@
         "id": "3",
         "name": "intersection",
         "symbolSize": 35,
+        "x": -242.82404,
+        "y": 235.26283,
         "value": 9.485714,
         "category": 1
       },
@@ -32,6 +40,8 @@
         "id": "4",
         "name": "administrative_area",
         "symbolSize": 35,
+        "x": -379.30386,
+        "y": 429.06424,
         "value": 4,
         "category": 1
       },
@@ -39,6 +49,8 @@
         "id": "5",
         "name": "administrative_area_1",
         "symbolSize": 20,
+        "x": -417.26337,
+        "y": 406.03506,
         "value": 4,
         "category": 1
       },
@@ -46,6 +58,8 @@
         "id": "6",
         "name": "administrative_area_2",
         "symbolSize": 20,
+        "x": -332.6012,
+        "y": 485.16974,
         "value": 4,
         "category": 1
       },
@@ -53,6 +67,8 @@
         "id": "7",
         "name": "administrative_area_3",
         "symbolSize": 20,
+        "x": -382.69568,
+        "y": 475.09113,
         "value": 4,
         "category": 1
       },
@@ -60,6 +76,8 @@
         "id": "8",
         "name": "administrative_area_4",
         "symbolSize": 20,
+        "x": -320.384,
+        "y": 387.17325,
         "value": 4,
         "category": 1
       },
@@ -67,6 +85,8 @@
         "id": "9",
         "name": "administrative_area_5",
         "symbolSize": 20,
+        "x": -344.39832,
+        "y": 451.16772,
         "value": 4,
         "category": 1
       },
@@ -74,6 +94,8 @@
         "id": "10",
         "name": "colloquial_area",
         "symbolSize": 35,
+        "x": -89.34107,
+        "y": 234.56128,
         "value": 4,
         "category": 1
       },
@@ -81,6 +103,8 @@
         "id": "11",
         "name": "locality",
         "symbolSize": 35,
+        "x": -87.93029,
+        "y": -6.8120565,
         "value": 100,
         "category": 1
       },
@@ -88,6 +112,8 @@
         "id": "12",
         "name": "sublocality",
         "symbolSize": 30,
+        "x": -339.77908,
+        "y": -184.69139,
         "value": 6.742859,
         "category": 1
       },
@@ -95,6 +121,8 @@
         "id": "13",
         "name": "sublocality_level_1",
         "symbolSize": 20,
+        "x": -194.31313,
+        "y": 178.55301,
         "value": 4,
         "category": 1
       },
@@ -102,6 +130,8 @@
         "id": "14",
         "name": "sublocality_level_2",
         "symbolSize":20,
+        "x": -158.05168,
+        "y": 201.99768,
         "value": 4,
         "category": 1
       },
@@ -109,6 +139,8 @@
         "id": "15",
         "name": "sublocality_level_3",
         "symbolSize": 20,
+        "x": -127.701546,
+        "y": 242.55057,
         "value": 4,
         "category": 1
       },
@@ -116,6 +148,8 @@
         "id": "16",
         "name": "sublocality_level_4",
         "symbolSize": 20,
+        "x": -385.2226,
+        "y": -393.5572,
         "value": 25.942856,
         "category": 2
       },
@@ -123,6 +157,8 @@
         "id": "17",
         "name": "sublocality_level_5",
         "symbolSize": 20,
+        "x": -516.55884,
+        "y": -393.98975,
         "value": 20.457146,
         "category": 2
       },
@@ -130,6 +166,8 @@
         "id": "18",
         "name": "neighborhood",
         "symbolSize": 35,
+        "x": -464.79382,
+        "y": -493.57944,
         "value": 20.457146,
         "category": 2
       },
@@ -137,6 +175,8 @@
         "id": "19",
         "name": "premise",
         "symbolSize": 35,
+        "x": -515.1624,
+        "y": -456.9891,
         "value": 20.457146,
         "category": 2
       },
@@ -144,6 +184,8 @@
         "id": "20",
         "name": "subpremise",
         "symbolSize": 30,
+        "x": -408.12122,
+        "y": -464.5048,
         "value": 20.457146,
         "category": 2
       },
@@ -151,6 +193,8 @@
         "id": "21",
         "name": "plus_code",
         "symbolSize": 35,
+        "x": -456.44113,
+        "y": -425.13303,
         "value": 20.457146,
         "category": 2
       },
@@ -158,6 +202,8 @@
         "id": "22",
         "name": "postal_code",
         "symbolSize": 35,
+        "x": -459.1107,
+        "y": -362.5133,
         "value": 20.457146,
         "category": 2
       },
@@ -165,6 +211,8 @@
         "id": "23",
         "name": "natural_feature",
         "symbolSize": 35,
+        "x": -313.42786,
+        "y": -289.44803,
         "value": 42.4,
         "category": 2
       },
@@ -172,6 +220,8 @@
         "id": "24",
         "name": "airport",
         "symbolSize": 35,
+        "x": 4.6313396,
+        "y": -273.8517,
         "value": 31.428574,
         "category": 7
       },
@@ -179,6 +229,8 @@
         "id": "25",
         "name": "park",
         "symbolSize": 35,
+        "x": 82.80825,
+        "y": -203.1144,
         "value": 45.142853,
         "category": 7
       },
@@ -186,6 +238,8 @@
         "id": "26",
         "name": "point_of_interest",
         "symbolSize": 35,
+        "x": 78.64646,
+        "y": -31.512747,
         "value": 31.428574,
         "category": 6
       },
@@ -193,6 +247,8 @@
         "id": "27",
         "name": "floor",
         "symbolSize": 30,
+        "x": -81.46074,
+        "y": -204.20204,
         "value": 47.88571,
         "category": 7
       },
@@ -200,6 +256,8 @@
         "id": "28",
         "name": "establishment",
         "symbolSize":30,
+        "x": -225.73984,
+        "y": 82.41631,
         "value": 12.228573,
         "category": 4
       },
@@ -207,6 +265,8 @@
         "id": "29",
         "name": "landmark",
         "symbolSize": 30,
+        "x": -385.6842,
+        "y": -20.206686,
         "value": 23.2,
         "category": 3
       },
@@ -214,6 +274,8 @@
         "id": "30",
         "name": "parking",
         "symbolSize": 30,
+        "x": -403.92447,
+        "y": -197.69823,
         "value": 6.742859,
         "category": 2
       },
@@ -221,6 +283,8 @@
         "id": "31",
         "name": "post_box",
         "symbolSize": 30,
+        "x": -281.4253,
+        "y": -158.45137,
         "value": 12.228573,
         "category": 2
       },
@@ -228,6 +292,8 @@
         "id": "32",
         "name": "room",
         "symbolSize": 30,
+        "x": -122.41348,
+        "y": 210.37503,
         "value": 4,
         "category": 1
       },
@@ -235,6 +301,8 @@
         "id": "33",
         "name": "street_number",
         "symbolSize": 30,
+        "x": -234.6001,
+        "y": -113.15067,
         "value": 6.742859,
         "category": 1
       },
@@ -242,6 +310,8 @@
         "id": "34",
         "name": "bus_station",
         "symbolSize": 30,
+        "x": -387.84915,
+        "y": 58.7059,
         "value": 17.714287,
         "category": 3
       },
@@ -249,6 +319,8 @@
         "id": "35",
         "name": "train_station",
         "symbolSize": 30,
+        "x": -338.2307,
+        "y": 87.48405,
         "value": 17.714287,
         "category": 3
       },
@@ -256,14 +328,33 @@
         "id": "36",
         "name": "transit_station",
         "symbolSize": 30,
+        "x": -453.26874,
+        "y": 58.94648,
         "value": 17.714287,
         "category": 3
       }
     ],
+
     "links": [
       {
-        "source": "1",
-        "target": "0"
+        "source": "0",
+        "target": "1"
+      },
+      {
+        "source": "0",
+        "target": "2"
+      },
+      {
+        "source": "0",
+        "target": "3"
+      },
+      {
+        "source": "0",
+        "target": "4"
+      },
+      {
+        "source": "0",
+        "target": "5"
       }
     ],
     "categories": [
