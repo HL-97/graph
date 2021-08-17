@@ -9,6 +9,24 @@
         "value": 100,
         "category": 0
       },
+       {
+        "id": "0",
+        "name": "Geo-feature",
+        "symbolSize": 66.66666666666667,
+        "x": 0,
+        "y": 0,
+        "value": 100,
+        "category": 1
+      },
+      {
+        "id": "1",
+        "name": "Marius",
+        "symbolSize": 35.58095333333333,
+        "x": 206.44687,
+        "y": -13.805411,
+        "value": 53.37143,
+        "category": 6
+      },
       {
         "id": "11",
         "name": "Myriel",
@@ -496,15 +514,7 @@
         "value": 12.228573,
         "category": 6
       },
-      {
-        "id": "55",
-        "name": "Marius",
-        "symbolSize": 35.58095333333333,
-        "x": 206.44687,
-        "y": -13.805411,
-        "value": 53.37143,
-        "category": 6
-      },
+
       {
         "id": "56",
         "name": "BaronessT",
