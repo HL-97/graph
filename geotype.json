@@ -282,72 +282,79 @@
         },
         {
             "id": "41",
-            "name": "administrative_area_level_1",
+            "name": "administrative_area",
             "symbolSize": 20,
             "value": 41,
-            "category": 4
+            "category": 1
         },
         {
             "id": "42",
-            "name": "administrative_area_level_2",
+            "name": "administrative_area_level_1",
             "symbolSize": 20,
             "value": 42,
             "category": 4
         },
         {
             "id": "43",
-            "name": "administrative_area_level_3",
+            "name": "administrative_area_level_2",
             "symbolSize": 20,
             "value": 43,
             "category": 4
         },
         {
             "id": "44",
-            "name": "administrative_area_level_4",
+            "name": "administrative_area_level_3",
             "symbolSize": 20,
             "value": 44,
             "category": 4
         },
         {
             "id": "45",
-            "name": "administrative_area_level_5",
+            "name": "administrative_area_level_4",
             "symbolSize": 20,
             "value": 45,
             "category": 4
         },
         {
             "id": "46",
-            "name": "sublocality_level_1",
+            "name": "administrative_area_level_5",
             "symbolSize": 20,
             "value": 46,
             "category": 4
         },
         {
             "id": "47",
-            "name": "sublocality_level_2",
+            "name": "sublocality_level_1",
             "symbolSize": 20,
             "value": 47,
             "category": 4
         },
         {
             "id": "48",
-            "name": "sublocality_level_3",
+            "name": "sublocality_level_2",
             "symbolSize": 20,
             "value": 48,
             "category": 4
         },
         {
             "id": "49",
-            "name": "sublocality_level_4",
+            "name": "sublocality_level_3",
             "symbolSize": 20,
             "value": 49,
             "category": 4
         },
         {
             "id": "50",
-            "name": "sublocality_level_5",
+            "name": "sublocality_level_4",
             "symbolSize": 20,
             "value": 50,
+            "category": 4
+        },
+        {
+            "id": "51",
+            "name": "sublocality_level_5",
+            "symbolSize": 20,
+            "value": 51,
             "category": 4
         }
     ],
@@ -505,6 +512,14 @@
             "target": "39"
         },
         {
+            "source": "1",
+            "target": "40"
+        },
+        {
+            "source": "1",
+            "target": "41"
+        },
+        {
             "source": "41",
             "target": "42"
         },
@@ -521,6 +536,10 @@
             "target": "45"
         },
         {
+            "source": "41",
+            "target": "46"
+        },
+        {
             "source": "9",
             "target": "47"
         },
@@ -535,6 +554,10 @@
         {
             "source": "9",
             "target": "50"
+        },
+        {
+            "source": "9",
+            "target": "51"
         }
     ],
     "categories": [
